@@ -4,9 +4,9 @@ import java.util.UUID;
 
 import org.springframework.stereotype.Service;
 
-import com.breno.projects.movieclubspringapi.club.application.domain.Club;
 import com.breno.projects.movieclubspringapi.club.application.port.in.CreateClubUseCase;
 import com.breno.projects.movieclubspringapi.club.application.port.out.UpdateClubStatePort;
+import com.breno.projects.movieclubspringapi.club.domain.Club;
 
 import lombok.RequiredArgsConstructor;
 

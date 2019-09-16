@@ -1,6 +1,6 @@
 package com.breno.projects.movieclubspringapi.club.application.port.out;
 
-import com.breno.projects.movieclubspringapi.club.application.domain.Club;
+import com.breno.projects.movieclubspringapi.club.domain.Club;
 
 public interface UpdateClubStatePort {
 

@@ -2,8 +2,8 @@ package com.breno.projects.movieclubspringapi.club.adapter.out.persistence.jpa;
 
 import org.springframework.stereotype.Component;
 
-import com.breno.projects.movieclubspringapi.club.application.domain.Club;
 import com.breno.projects.movieclubspringapi.club.application.port.out.UpdateClubStatePort;
+import com.breno.projects.movieclubspringapi.club.domain.Club;
 
 import lombok.RequiredArgsConstructor;
 
