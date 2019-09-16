@@ -21,8 +21,8 @@ import org.springframework.test.web.servlet.MvcResult;
 
 import com.breno.projects.movieclubspringapi.club.adapter.in.api.request.CreateClubRequest;
 import com.breno.projects.movieclubspringapi.club.adapter.in.api.response.CreateClubResponse;
-import com.breno.projects.movieclubspringapi.club.application.domain.Club;
 import com.breno.projects.movieclubspringapi.club.application.port.in.CreateClubUseCase;
+import com.breno.projects.movieclubspringapi.club.domain.Club;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 @ExtendWith(SpringExtension.class)

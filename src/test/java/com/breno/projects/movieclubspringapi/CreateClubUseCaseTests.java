@@ -10,9 +10,9 @@ import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.MockitoAnnotations;
 
-import com.breno.projects.movieclubspringapi.club.application.domain.Club;
 import com.breno.projects.movieclubspringapi.club.application.port.out.UpdateClubStatePort;
 import com.breno.projects.movieclubspringapi.club.application.service.CreateClubService;
+import com.breno.projects.movieclubspringapi.club.domain.Club;
 
 class CreateClubUseCaseTests {
 
