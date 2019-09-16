@@ -12,8 +12,8 @@
 	<groupId>com.breno.projects</groupId>
 	<artifactId>movieclub-spring-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
-	<description>Demo project for Spring Boot</description>
+	<name>movie-club-api</name>
+	<description>A Spring Boot REST API for a movie club app</description>
 
 	<properties>
 		<java.version>1.8</java.version>
