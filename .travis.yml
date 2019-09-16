@@ -9,5 +9,7 @@ install: true
     
 script:
   - ./mvnw clean install
+
+after_success:
   # Code Coverage using codecov service (uses JaCoCo)
   - bash <(curl -s https://codecov.io/bash)
